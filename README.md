@@ -9,21 +9,21 @@
 <h2 align="center"> 🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦊 </h2>
 <img src="https://64.media.tumblr.com/e1f1c97123ae217eb731500e502e0083/tumblr_n9dxcikmIU1qc9zfzo7_r1_250.gif" align="right">
 <li>
-<b>Name:</b> Yukii | Sinon</li>
+<b>Name:</b> Ash | Aswin </li>
 <li>
 <b>Nationality:</b> Pink Fluffy Unicorn
 </li>
 <li>
-<b>Loves:</b> you! and donuts and games maybe -///-
+<b>Loves:</b> You! and Food and games maybe -///-
 </li>
 <li>
-<b>Gender:</b> she/her/Female
+<b>Gender:</b> he/him/male
 </li>
 <li>
-<b>Hobbys:</b> Tech Stuff, Graphics Design, Music
+<b>Hobbys:</b> Tech Stuff, Learning, Music
 </li>
 <li>
-<b>Working @:</b> Intave Anticheat
+<b>Currently Learning @:</b> Python, Bash, C
 </li>
 <br>
 <p><b>     Thanks fow weading this onyee-san<br>
