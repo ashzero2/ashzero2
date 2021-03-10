@@ -35,8 +35,8 @@
 <img src="https://i.pinimg.com/originals/8d/4b/77/8d4b77c44b7a68c0fd609411e2c0ec3c.gif" align="right">
 </div>
 <div>
-<p align="center"><img src="https://img.shields.io/badge/%20python%20-%2331A8FF.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/%20(learning)%20-%23E34F26.svg?&style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/><br>
- <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <br><br>
+<p align="center"><img src="https://img.shields.io/badge/%20python%20-%2331A8FF.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/%20(learning)%20-%23E34F26.svg?&style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/%20Anime%20xd%20(joking)%20-%2343853D.svg?&style=for-the-badge&logo=language&logoColor=white"/><br>
+ <img src="https://img.shields.io/badge/%20Bash%20-%2343853D.svg?&style=for-the-badge&logo=linux&logoColor=white"/> <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <br><br>
 Im also very good at writing Guides like my Yuzu Emulator Guide or writing this shit here. Literally took me Hours to write this while hearing music. Also good @ Graphics Design, which i mostly post on Twitter, where a big part my Stuff already is sitting
 </p>
 <br>
