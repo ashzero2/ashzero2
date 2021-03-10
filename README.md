@@ -45,8 +45,7 @@ Im also very good at writing Guides like my Yuzu Emulator Guide or writing this 
 <br>
 <p align="center">Hewe awe some of my <br>
 most used s-s-sociaw things >~< xoxox</p>
-<p align="center"><a href="https://t.me/park_mujin" target="_blank"><img src="https://img.shields.io/badge/Ash%20-%231DA1F2.svg?&style=for-the-badge&logo=Telegram&logoColor=white"/></a> <a href="https://discord.me/ashtwo" target="_blank"><img src="https://img.shields.io/badge/ashTwo%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a></p>
-<p align="center"><a href="https://twitch.tv/sinonaim" target="_blank"><img src="https://img.shields.io/badge/Sinonaim%20-%239146FF.svg?&style=for-the-badge&logo=Twitch&logoColor=white"/></a></p>
+<p align="center"><a href="https://t.me/park_mujin" target="_blank"><img src="https://img.shields.io/badge/Ash%20-%231DA1F2.svg?&style=for-the-badge&logo=Telegram&logoColor=white"/></a> <a href="https://discordapp.com/users/ashTwo#7411" target="_blank"><img src="https://img.shields.io/badge/ashTwo%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a></p>
 </div>
 <br>
 <div>
