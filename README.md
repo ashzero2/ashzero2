@@ -23,7 +23,7 @@
 <b>Hobbys:</b> Tech Stuff, Learning, Music
 </li>
 <li>
-<b>Currently Learning :</b> Python, Bash, C
+<b>Currently Learning :</b> OS, Computer Networks, C ^-^
 </li>
 <br>
 <p><b>     Thanks fow weading this onyee-san<br>
