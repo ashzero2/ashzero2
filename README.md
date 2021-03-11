@@ -7,7 +7,7 @@
 <br>
 <div>
 <h2 align="center"> 🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦊 </h2>
-<img src="https://64.media.tumblr.com/e1f1c97123ae217eb731500e502e0083/tumblr_n9dxcikmIU1qc9zfzo7_r1_250.gif" align="right">
+<img src="https://64.media.tumblr.com/e3aa554e311f28847bfbedc66a516416/a461b2c9d63ff1ed-ec/s2048x3072/e6acc751e312d2f01e88a6a78c544ba8d6413455.jpg" align="right">
 <li>
 <b>Name:</b> Ash | Aswin </li>
 <li>
