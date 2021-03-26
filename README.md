@@ -44,7 +44,7 @@ Im also good at speaking and shitposting in telegram(xD) or writing this shit he
 <img src="https://i.imgur.com/KXx0cCx.gif" align="right" width="373.5px" height="208.5px">
 <br>
 <p align="center">Hewe awe some of my <br>
-most used s-s-sociaw things >~< xoxox</p>
+most used s-s-social things >~< xoxox</p>
 <p align="center"><a href="https://t.me/park_mujin" target="_blank"><img src="https://img.shields.io/badge/Ash%20-%231DA1F2.svg?&style=for-the-badge&logo=Telegram&logoColor=white"/></a> <a href="https://discordapp.com/users/ashTwo#7411" target="_blank"><img src="https://img.shields.io/badge/ashTwo%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a></p>
 </div>
 <br>
