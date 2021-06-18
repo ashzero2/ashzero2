@@ -35,7 +35,7 @@
 <img src="https://i.pinimg.com/originals/8d/4b/77/8d4b77c44b7a68c0fd609411e2c0ec3c.gif" align="right">
 </div>
 <div>
-<p align="center"><img src="https://img.shields.io/badge/%20python%20-%2331A8FF.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/%20(learning)%20-%23E34F26.svg?&style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/%20lua%20-%2331A8FF.svg?&style=for-the-badge&logo=lua&logoColor=white"/><br>
+<p align="center"><img src="https://img.shields.io/badge/%20python%20-%2331A8FF.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/%20(learning)%20-%23E34F26.svg?&style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/cpp(learning)-%2331A8FF.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white"/><br>
  <img src="https://img.shields.io/badge/%20Bash%20-%2343853D.svg?&style=for-the-badge&logo=linux&logoColor=white"/> <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <br><br>
 Im also good at speaking and shitposting in telegram(xD) or writing this shit here. Lit. Also very good at watching anime and lot of other things and wasting time like nothing . Btw i use Void Linux.
 </p>
