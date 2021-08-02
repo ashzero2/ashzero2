@@ -3,17 +3,13 @@
 </h1>
 
 ## Hey! 👋
-I'm Marton, a 18 years old web developer from Hungary.
-
-- 🧭 Founder at [@th8ta](https://github.com/th8ta) and [@useverto](https://github.com/useverto)
-
-- 👥 Core team member at [@nestdotland](https://github.com/nestdotland)
+I'm Aswin, a 19 years student from India.
 
 ## Skills
-- 👨‍💻 TypeScript, JavaScript, PHP
-- ⚙️ React, Svelte, Vue
-- 👁️ SASS, CSS, Stylus
-- 💽 MySQL, SQL, Mongo
+- 👨‍💻 C, C++ , Python
+- ⚙️ Linux, Bash
+- 👁️ HTML, CSS
+- 💽 MySQL, SQL
 
 ## Contact
 - [marton.lederer.hu](https://marton.lederer.hu)
