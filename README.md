@@ -7,12 +7,9 @@ I'm Aswin, a 19 years student from India.
 
 ## Skills
 - 👨‍💻 C, C++ , Python
-- ⚙️ Linux, Bash
+- ⚙️ Linux, Bash, git
 - 👁️ HTML, CSS
 - 💽 MySQL, SQL
 
 ## Contact
-- [marton.lederer.hu](https://marton.lederer.hu)
-- [@martonlederer](https://twitter.com/martonlederer) on Twitter
-- [@martonlederer](https://twitter.com/instagram) on Instagram
-- [Marton#6513](./) on Discord
+- [@park_mujin](https://t.me/park_mujin) on Telegram
