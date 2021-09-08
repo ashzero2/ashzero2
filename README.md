@@ -12,7 +12,7 @@ I'm Aswin, a 19 years student from India.
 
 ## Skills
 - 👨‍💻 C++ , Python
--  Java [learning]
+- 💻 Java [learning]
 - ⚙️ Linux, Bash, git
 - 👁️ HTML, CSS
 - 💽 MySQL, SQL
