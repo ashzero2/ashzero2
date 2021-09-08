@@ -11,7 +11,8 @@ I'm Aswin, a 19 years student from India.
 - Anime ofc
 
 ## Skills
-- 👨‍💻 C, C++ , Python
+- 👨‍💻 C++ , Python
+-  Java [learning]
 - ⚙️ Linux, Bash, git
 - 👁️ HTML, CSS
 - 💽 MySQL, SQL
