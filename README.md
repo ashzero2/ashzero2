@@ -3,7 +3,7 @@
 </h1>
 
 ## Hey! 👋
-I'm Aswin, a 19 years student from India.
+I am Aswin, a 21 year old student from India.
 
 - Linux Enthusiast
 - Tech Geek
@@ -18,4 +18,4 @@ I'm Aswin, a 19 years student from India.
 - 💽 MySQL, SQL
 
 ## Contact
-- [@park_mujin](https://t.me/park_mujin) on Telegram
+ [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/park_mujin)
