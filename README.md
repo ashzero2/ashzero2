@@ -3,7 +3,7 @@
 </h1>
 
 ## Hey! 👋
-I'm Aswin, a 19 years student from India.
+I am Aswin, a 21 year old student from India.
 
 - Linux Enthusiast
 - Tech Geek
