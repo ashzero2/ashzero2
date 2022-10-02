@@ -42,8 +42,7 @@ const ash = {
           Javascript, 
           Python, 
           C++, 
-          C
-        ],
+          C ],
         
   tools: [ Node, 
            SvelteKit, 
@@ -51,12 +50,10 @@ const ash = {
            Nativescript, 
            Git, 
            Prisma, 
-           Supabase
-          ],
+           Supabase ],
           
   database: [ MySQL, 
-              Fauna
-            ]
+              Fauna ]
 }
 ```
 </br>
