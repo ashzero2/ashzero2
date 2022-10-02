@@ -33,17 +33,32 @@
 
 
 
-# Languages & Tools 👨‍💻 🛠:
+# Languages & Tools <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">:
 </br>
 
-<p align="center">
-
-<!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-<img src="https://img.shields.io/badge/-svelte-282c34?style=flat&logo=svelte&labelColor=white" alt="python" width="100" hight="50">
-<!-- <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/java.png" alt="java"  width="100" hight="40"> -->
-<img src="https://img.shields.io/badge/-javascript-282c34?style=flat&logo=javascript&labelColor=blue" alt="python" width="100" hight="50">
-<img src="https://img.shields.io/badge/-nativescript-282c34?style=flat&logo=nativescript&labelColor=blue" alt="python" width="100" hight="50">
-</p>
+```javascript
+const ash = {
+  code: [ Java, 
+          Javascript, 
+          Python, 
+          C++, 
+          C
+        ],
+        
+  tools: [ Node, 
+           SvelteKit, 
+           Bootstrap, 
+           Nativescript, 
+           Git, 
+           Prisma, 
+           Supabase
+          ],
+          
+  database: [ MySQL, 
+              Fauna
+            ]
+}
+```
 </br>
 </br>
 </br>
