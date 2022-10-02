@@ -16,6 +16,7 @@
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
 
 ### - Learning :
+- ✨ Data Science
 - ✨ SvelteKit
 - ✨ NativeScript (Svelte)
 - ✨ Networking
@@ -39,17 +40,9 @@
 
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
 <img src="https://img.shields.io/badge/-svelte-282c34?style=flat&logo=svelte&labelColor=white" alt="python" width="100" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/java.png" alt="java"  width="100" hight="40">
-<img src="https://img.shields.io/badge/-javascript-282c34?style=flat&logo=javascript&labelColor=white" alt="python" width="100" hight="50">
+<!-- <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/java.png" alt="java"  width="100" hight="40"> -->
+<img src="https://img.shields.io/badge/-javascript-282c34?style=flat&logo=javascript&labelColor=blue" alt="python" width="100" hight="50">
 <img src="https://img.shields.io/badge/-nativescript-282c34?style=flat&logo=nativescript&labelColor=blue" alt="python" width="100" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/datascience.png" alt="datascience" width="180" hight="50">
-</br>
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/google_cloud_platform.png" alt="google_cloud_platform" width="270" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/visualstudio_code.png" alt="visualstudio_code" width="240" hight="50">
-</br>
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/pc.png" alt="pc" width="100" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/edge.png" alt="edge" width="100" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/playstation@3x.png" alt="playstation" width="150" hight="50">
 </p>
 </br>
 </br>
@@ -68,20 +61,19 @@
 
 If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
 
-<a href="mailto:ashutosh.saxena.2001@gmail.com">
- <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
+<a href="mailto:aswinzero2@gmail.com">
+  <img src="https://img.shields.io/badge/-gmail-282c34?style=flat&logo=gmail&labelColor=white" alt="python" width="100" hight="50">
 </a>
-<a href="https://www.linkedin.com/in/ashutosh-saxena-7b326817b/">
-  <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />
-</br>
+<a href="https://www.t.me/park_mujin/">
+  <img src="https://img.shields.io/badge/-telegram-282c34?style=flat&logo=telegram&labelColor=white" alt="python" width="100" hight="50">
 </br>
 </br>
 </a>
-<a href="https://www.reddit.com/user/X_Ashutosh_X">
-  <img align="left" alt=" Reddit" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/reddit.png" />
+<a href="">
+  <img align="left" alt=" Reddit" width="130" hight="100" src="" />
 </a>
 <a href="https://steamcommunity.com/profiles/76561198182224539/">
-  <img align="left" alt="Steam" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/steam.png" />
+  <img align="left" alt="Steam" width="130" hight="100" src="" />
 </a>
  </p>
  
