@@ -38,16 +38,20 @@
 
 ```javascript
 const ash = {
-  code: [ Java, 
+  code: [ Java,
           Javascript, 
-          Python, 
+          Python,
+          Rust,
+          Bash,
           C++, 
           C ],
         
-  tools: [ Node, 
+  tools: [ Node,
+           Svelte,
            SvelteKit, 
            Bootstrap, 
-           Nativescript, 
+           Nativescript,
+           Daisy UI,
            Git, 
            Prisma, 
            Supabase ],
