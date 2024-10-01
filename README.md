@@ -21,7 +21,21 @@
 
  **<h3 align="left">Skills</h3>**
 
-<div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;"><img src="https://img.shields.io/badge/Svelte-FF3E00?logo=svelte&logoColor=white" height="32" alt="Svelte" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Ember.js-E04E39?logo=ember-dot-js&logoColor=white" height="32" alt="Ember.js" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Node.js-8CC84B?logo=node.js&logoColor=white" height="32" alt="Node.js" style="margin-right: 4px"> <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" height="32" alt="PostgreSQL" style="margin-right: 4px"> <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" height="32" alt="MySQL" style="margin-right: 4px"></div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,cpp,java,rust,python,go" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=svelte,vue,maven,js" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,vim,bash,c" />
+  </a>
+</p>
 
  **<h3 align="left">GitHub Stats</h3>**
 
